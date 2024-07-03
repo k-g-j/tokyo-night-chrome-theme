@@ -1,0 +1,72 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Tokyo Night Dark",
+  "theme": {
+    "colors": {
+      "frame": [26, 27, 38],
+      "frame_inactive": [26, 27, 38],
+      "frame_incognito": [26, 27, 38],
+      "frame_incognito_inactive": [26, 27, 38],
+      "toolbar": [22, 22, 30],
+      "tab_text": [192, 202, 245],
+      "tab_background_text": [120, 124, 153],
+      "bookmark_text": [120, 124, 153],
+      "ntp_background": [26, 27, 38],
+      "ntp_text": [168, 177, 214],
+      "ntp_link": [62, 132, 187],
+      "ntp_header": [123, 199, 255],
+      "button_background": [61, 89, 161],
+      "button_background_active": [61, 89, 161],
+      "button_background_hover": [61, 89, 161],
+      "button_foreground": [255, 255, 255],
+      "toolbar_button_background_active": [61, 89, 161],
+      "toolbar_button_background_hover": [61, 89, 161],
+      "toolbar_button_foreground": [255, 255, 255],
+      "tab_background": [16, 16, 30],
+      "tab_background_incognito": [16, 16, 30],
+      "frame_overlay": [22, 22, 30],
+      "popup": [22, 22, 30],
+      "popup_text": [168, 177, 214],
+      "popup_border": [22, 22, 30],
+      "popup_highlight": [62, 132, 187],
+      "popup_highlight_text": [255, 255, 255],
+      "omnibox_text": [168, 177, 214],
+      "omnibox_background": [22, 22, 30],
+      "omnibox_border": [22, 22, 30],
+      "omnibox_highlight": [62, 132, 187],
+      "omnibox_highlight_text": [255, 255, 255],
+      "omnibox_text_dimmed": [120, 124, 153],
+      "omnibox_text_inactive": [120, 124, 153],
+      "sidebar": [22, 22, 30],
+      "sidebar_border": [22, 22, 30],
+      "sidebar_text": [168, 177, 214],
+      "sidebar_highlight": [62, 132, 187],
+      "sidebar_highlight_text": [255, 255, 255],
+      "sidebar_text_dimmed": [120, 124, 153],
+      "sidebar_text_inactive": [120, 124, 153],
+      "sidebar_section_header": [62, 132, 187],
+      "sidebar_section_header_text": [255, 255, 255],
+      "sidebar_section_header_background": [22, 22, 30],
+      "status_bar": [26, 27, 38],
+      "status_bar_text": [120, 124, 153],
+      "status_bar_border": [16, 16, 30],
+      "toolbar_bottom_separator": [0, 0, 0, 0.2],
+      "toolbar_top_separator": [0, 0, 0, 0.2],
+      "toolbar_field_focus": [255, 255, 255],
+      "toolbar_field": [22, 22, 30],
+      "toolbar_field_text": [168, 177, 214],
+      "toolbar_field_border": [22, 22, 30],
+      "toolbar_field_separator": [0, 0, 0, 0.2]
+    },
+    "images": {
+      "theme_ntp_background": "images/pixel-art-city.png"
+    },
+    "tints": {
+      "buttons": [0.5, 0.5, 0.5]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom"
+    }
+  }
+}
